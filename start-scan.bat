@@ -1,0 +1,1 @@
+sonar-scanner.bat -D"sonar.projectKey=ProjectName" -D"sonar.sources=." -D"sonar.host.url=https://sonarq.dev1c.tech" -D"sonar.token=sqp_"
