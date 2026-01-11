@@ -14,3 +14,7 @@
 Ссылка на sonarScanner: <br>
 ![image](https://github.com/user-attachments/assets/2225f170-813e-4372-9f0b-6d27932159fa)<br>
 https://docs.sonarsource.com/sonarqube-server/latest/analyzing-source-code/scanners/sonarscanner/#macos-and-linux<br>
+<br>
+<p align="center">
+  <img src="https://dev1c.tech/wp-content/uploads/2025/12/image-5.png"  alt="QR-код для донатов" />
+</p>
